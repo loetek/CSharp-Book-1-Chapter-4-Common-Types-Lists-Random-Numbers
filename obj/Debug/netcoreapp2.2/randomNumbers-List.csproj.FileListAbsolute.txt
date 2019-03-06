@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/bin/Debug/netcoreapp2.2/randomNumbers-List.deps.json
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/bin/Debug/netcoreapp2.2/randomNumbers-List.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/bin/Debug/netcoreapp2.2/randomNumbers-List.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/bin/Debug/netcoreapp2.2/randomNumbers-List.dll
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/bin/Debug/netcoreapp2.2/randomNumbers-List.pdb
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.dll
+/Users/jdwheeler/workspace/C#/exercises/randomNumbers-List/obj/Debug/netcoreapp2.2/randomNumbers-List.pdb
